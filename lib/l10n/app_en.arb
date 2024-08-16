@@ -1,0 +1,24 @@
+{
+    "appTitle" : "Islmai",
+    "chapterTitle" : "Chapter Title",
+    "versesNumber" : "Verses Number",
+    "quranTap" : "Quran",
+    "hadethTap" : "Hadeth",
+    "hadethNum" : "Hadeth Number",
+    "sebhaTap" : "Sebha",
+    "radioTap" : "Radio",
+    "settingTap" : "Setting",
+    "theme" : "Theme",
+    "language" : "Language",
+    "english" : "English" ,
+    "arabic" : "Arabic" ,
+    "light" : "Light",
+    "dark" : "Dark" ,
+    "numberOfTasbeehs":"Number of Tasbeehs",
+    "sobhanAllah":"Sobhan Allah",
+    "elHamdleAllah":"El Hamd Le Allah",
+    "laIlahaIllaAllah":"La Ilaha Illa Allah",
+    "allahuAkbar":"Allahu Akbar"
+
+
+}

@@ -1,0 +1,22 @@
+{
+    "appTitle" : "اسلامي",
+    "chapterTitle" : "اسم السورة",
+    "versesNumber" : "رقم السورة",
+    "quranTap" : "القرآن",
+    "hadethTap" : "الاحاديث",
+    "hadethNum" : "رقم الحديث",
+    "sebhaTap" : "السبحه",
+    "radioTap" : "الراديو",
+    "settingTap" : "الاعدادات",
+    "theme" : "المظهر",
+    "language" : "اللغة",
+    "english" : "الأنجليزية" ,
+    "arabic" : "العربية" ,
+    "light" : "فاتح",
+    "dark" : "داكن",
+    "numberOfTasbeehs":"عدد التسبيحات",
+    "sobhanAllah":"سبحان الله",
+    "elHamdleAllah":"الحمد لله",
+    "laIlahaIllaAllah":"لا اله الا الله",
+    "allahuAkbar":"الله اكبر"
+}
