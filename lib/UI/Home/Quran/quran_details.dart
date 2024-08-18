@@ -48,7 +48,7 @@ class _QuranDetailsState extends State<QuranDetails> {
 
   void readFileData(int chapterIndex) async {
     String fileCountent = await rootBundle
-        .loadString("Assets/Quran-Suras/${chapterIndex + 1}.txt");
+        .loadString("Assets/Quran-Suras/${chapterIndex+1}.txt");
     List<String> lines = fileCountent.trim().split("\n");
     setState(() {
       verses = lines;

@@ -15,7 +15,7 @@ class VersesContent extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(8.0),
       child: Text(
-        "$content (${index + 1})",
+        "$content(${index+1})",
         textDirection: TextDirection.rtl,
         textAlign: TextAlign.center,
         style: Theme.of(context).textTheme.bodyMedium,
